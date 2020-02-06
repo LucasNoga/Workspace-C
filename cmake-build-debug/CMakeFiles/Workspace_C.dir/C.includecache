@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lucasnoga/Lab/Workspace C/NF05_TD/NF05_TD2/NF05_TD2_ex1.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+string.h
+-
+

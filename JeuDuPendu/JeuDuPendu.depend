@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1544007363 source:d:\dev\c\jeudupendu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"dico.h"
+
+1544007262 d:\dev\c\jeudupendu\dico.h
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1579962828 source:d:\dev\c\cours_dut\syracuse.c
+	<stdio.h>
+
+1579962419 source:d:\dev\c\cours_dut\goldbach.c
+
+1579962885 source:d:\dev\c\cours_dut\main.c
+	<stdio.h>
+	<stdlib.h>
+	"syracuse.h"
+
+1579962106 d:\dev\c\cours_dut\syracuse.h
+

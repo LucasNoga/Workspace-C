@@ -1,0 +1,6 @@
+#ifndef GOLDBACH_H_INCLUDED
+#define GOLDBACH_H_INCLUDED
+
+
+
+#endif // GOLDBACH_H_INCLUDED

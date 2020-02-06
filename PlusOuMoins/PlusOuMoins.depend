@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1543673425 source:d:\dev\c\plusoumoins\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1543673426 source:d:\dev\c\plusoumoins\main2.c
+
